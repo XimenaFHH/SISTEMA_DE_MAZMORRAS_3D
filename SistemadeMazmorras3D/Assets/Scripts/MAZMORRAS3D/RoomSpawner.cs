@@ -6,7 +6,11 @@ using UnityEngine.UI;
 
 public class RoomSpawner : MonoBehaviour
 {
-    public int openSide; // 1 Need Bottom door, 2 Need Top door, 3 Need Left door, 4 Need Right door
+    public int openSide; 
+    // 1 Need Bottom door
+    // 2 Need Top door
+    // 3 Need Left door
+    // 4 Need Right door
 
     private RoomTemplates templates;
     private int rand;
