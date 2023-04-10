@@ -3,7 +3,11 @@ guid: bbf65e335c9eac747b8d2fd9849a3553
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - "bot\xF3nPause": {fileID: 6364089016797778178, guid: 950611b102cabaa4089b01ba580c0071,
+      type: 3}
+  - "men\xFAPause": {fileID: 7893464519768968485, guid: 4bc2ab1da39a2014194ea608915d0f4d,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

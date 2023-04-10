@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 5542596489026061122}
   m_Layer: 0
   m_Name: ClosedRoom
-  m_TagString: Untagged
+  m_TagString: Rooms
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4476,6 +4476,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741721970939504756, guid: 98f5378049f9b5745a77677f581b32b1,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.9413712
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741721970939504756, guid: 98f5378049f9b5745a77677f581b32b1,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2517571
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741721970939504756, guid: 98f5378049f9b5745a77677f581b32b1,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.9413702
+      objectReference: {fileID: 0}
+    - target: {fileID: 4741721970939504756, guid: 98f5378049f9b5745a77677f581b32b1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6603488554207994483, guid: 98f5378049f9b5745a77677f581b32b1,
         type: 3}

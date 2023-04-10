@@ -3,7 +3,15 @@ guid: a0385ca5edf97b04fbde77d3a6eec8b7
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - closedRoom: {fileID: 5542596489026061133, guid: a09c42f449d57b549b812420593f6f7c,
+      type: 3}
+  - boss: {fileID: 9031763951785445362, guid: 6554f9a565a0bb443a9fed4ba3940241, type: 3}
+  - coins: {fileID: 9031763951785445362, guid: 9ade81c3571a79347afb00fb91211891, type: 3}
+  - roomCountText: {fileID: 339618952320286880, guid: 4887023cdd548cf41a87f95a03072c98,
+      type: 3}
+  - gemCountText: {fileID: 919718943183984487, guid: c0418556fddb92c439db59317d188fe8,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
